@@ -1,0 +1,7 @@
+add to your bashrc
+alias a9pt='python PATH_TO_INIT/init.py'
+
+reload bashrc
+
+type something like: a9pt drawable-mdpi/*
+
